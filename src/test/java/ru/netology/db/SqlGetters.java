@@ -1,4 +1,4 @@
-package ru.netology.login;
+package ru.netology.db;
 
 import lombok.SneakyThrows;
 
